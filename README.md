@@ -1,2 +1,2 @@
 # image
-picgo-image
+for picgo-image
